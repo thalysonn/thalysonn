@@ -2,11 +2,21 @@
 
 "versão":"3.0",
 
-"title":"Atualização disponível Versão 3.0 Fix 🛠️",
+"title":"Atualização disponível 🛠️",
 
-"description":"Uma nova atualização está disponível para correção de bugs e outros recursos.",
+"description":"Uma nova atualização está disponível e inclui novos emojis, opção para salvar imagens e/ou vídeos que só podem ser vistos uma vez única, possibilidade de filtrar como mensagens enviadas por um contato exclusivo em um grupo e outros recursos. ",
 
-"download":"http://hdmodsoficial.blogspot.com/2022/10/yo-whatsapp-business-gold.html"
+"download":"http://hdmodsoficial.blogspot.com/2022/10/hd-whatsapp-beta-mods.html"
+
+}
+
+
+
+
+
+
+
+
 
 
 
