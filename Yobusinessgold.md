@@ -1,14 +1,18 @@
 {
 
-"versão":"V.0"
+"versão":"3.0",
 
- "title":"Atualização disponível 🛠️",
+"title":"Atualização disponível Versão 3.0 Fix 🛠️",
 
-"description":"Uma nova atualização está disponível e inclui novos emojis, base atualizada entre outros recursos.",
+"description":"Uma nova atualização está disponível para correção de bugs e outros recursos.",
 
-"baixar":" http://hdmodsoficial.blogspot.com/2022/10/hd-whatsapp-beta-mods.html "
+"download":"http://hdmodsoficial.blogspot.com/2022/10/yo-whatsapp-business-gold.html"
 
-}
+
+
+
+
+
 
 
 
