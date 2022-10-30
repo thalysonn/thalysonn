@@ -1,6 +1,6 @@
 {
 
-"versão":"3.0",
+"versão":"3.1",
 
 "title":"Atualização disponível 🛠️",
 
