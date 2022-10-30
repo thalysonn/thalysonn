@@ -1,12 +1,12 @@
 {
 
- "version":"V1.0",
+"versão":"V.0"
 
  "title":"Atualização disponível 🛠️",
 
- "description":"Uma nova atualização está disponível e incluí novos emojis, base atualizada entre outros recursos.",
+"description":"Uma nova atualização está disponível e inclui novos emojis, base atualizada entre outros recursos.",
 
-"download":"http://hdmodsoficial.blogspot.com/2022/10/hd-whatsapp-beta-mods.html"
+"baixar":" http://hdmodsoficial.blogspot.com/2022/10/hd-whatsapp-beta-mods.html "
 
 }
 
